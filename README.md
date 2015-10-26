@@ -4,9 +4,7 @@ Additionaly this project serves as an example of what you can do in Structor.
 
 Shortly, [Structor](https://github.com/ipselon/structor) is a user interface builder for Web apps using React components.
  
- 
 <img src="https://github.com/ipselon/structor-market-site/blob/master/docs/resources/structor-market-screenshot.png" style="width: 100%"></img>
-<br/>
 <br/>
 ### The problem
 
@@ -25,7 +23,7 @@ The builder is only the environment which uses metainfo of the project and acts 
 <br/>
 ### Technologies and libraries
 The following libs and technlogies were used:
-* ```react``` (0.14.0)
+* ```react``` (0.14)
 * ```react-router```
 * ```redux``` (```redux-thunk```, ```react-redux```)
 * ```react-bootstrap``` (with customised css styles)
