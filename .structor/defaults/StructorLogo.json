@@ -1,0 +1,22 @@
+[
+  {
+    "variantName": "full width",
+    "type": "StructorLogo",
+    "props": {
+      "data-umyid": "99",
+      "style": {
+        "width": "100%"
+      }
+    }
+  },
+  {
+    "variantName": "width 100px",
+    "type": "StructorLogo",
+    "props": {
+      "style": {
+        "width": "100px"
+      },
+      "data-umyid": "99"
+    }
+  }
+]

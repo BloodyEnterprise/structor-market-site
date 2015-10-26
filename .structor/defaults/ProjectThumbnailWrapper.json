@@ -1,0 +1,693 @@
+[
+  {
+    "variantName": "first variant",
+    "type": "ProjectThumbnailWrapper",
+    "props": {
+      "data-umyid": "204"
+    },
+    "children": [
+      {
+        "type": "Panel",
+        "props": {
+          "data-umyid": "20",
+          "style": {
+            "border": 0
+          }
+        },
+        "children": [
+          {
+            "variantName": "Default",
+            "type": "div",
+            "children": [
+              {
+                "variantName": "Default",
+                "type": "div",
+                "children": [
+                  {
+                    "variantName": "Default",
+                    "type": "div",
+                    "children": [
+                      {
+                        "variantName": "Default",
+                        "type": "div",
+                        "children": [
+                          {
+                            "variantName": "Unsaved variant",
+                            "type": "StructorLogo",
+                            "props": {
+                              "data-umyid": "26",
+                              "style": {
+                                "width": "100%"
+                              }
+                            }
+                          }
+                        ],
+                        "props": {
+                          "data-umyid": "97",
+                          "style": {
+                            "padding": "5px"
+                          }
+                        }
+                      },
+                      {
+                        "variantName": "Default",
+                        "type": "p",
+                        "children": [
+                          {
+                            "type": "span",
+                            "text": "300",
+                            "props": {
+                              "data-umyid": "105"
+                            }
+                          }
+                        ],
+                        "props": {
+                          "data-umyid": "104",
+                          "className": "text-center"
+                        }
+                      },
+                      {
+                        "type": "Button",
+                        "props": {
+                          "bsStyle": "default",
+                          "data-umyid": "181"
+                        },
+                        "children": [
+                          {
+                            "type": "span",
+                            "text": "Download",
+                            "props": {
+                              "data-umyid": "182"
+                            },
+                            "componentName": null
+                          }
+                        ],
+                        "componentName": null
+                      }
+                    ],
+                    "props": {
+                      "data-umyid": "25",
+                      "style": {
+                        "display": "table-cell",
+                        "width": "70px",
+                        "verticalAlign": "top",
+                        "borderRight": "1px solid #f5f5f5",
+                        "paddingRight": "15px"
+                      }
+                    }
+                  },
+                  {
+                    "variantName": "Default",
+                    "type": "div",
+                    "children": [
+                      {
+                        "variantName": "Default",
+                        "type": "h3",
+                        "children": [
+                          {
+                            "type": "span",
+                            "text": "Structor Market site",
+                            "props": {
+                              "data-umyid": "29"
+                            }
+                          }
+                        ],
+                        "props": {
+                          "data-umyid": "28",
+                          "className": "text-danger",
+                          "style": {
+                            "marginTop": 0,
+                            "width": "80%"
+                          }
+                        }
+                      },
+                      {
+                        "type": "p",
+                        "children": [
+                          {
+                            "type": "span",
+                            "text": "Empty Panel",
+                            "props": {
+                              "data-umyid": "31"
+                            }
+                          }
+                        ],
+                        "props": {
+                          "data-umyid": "30"
+                        }
+                      },
+                      {
+                        "variantName": "Unsaved variant",
+                        "type": "hr",
+                        "props": {
+                          "data-umyid": "32"
+                        }
+                      },
+                      {
+                        "variantName": "Default",
+                        "type": "p",
+                        "children": [
+                          {
+                            "type": "span",
+                            "text": "Empty p",
+                            "props": {
+                              "data-umyid": "34"
+                            }
+                          }
+                        ],
+                        "props": {
+                          "data-umyid": "33"
+                        }
+                      },
+                      {
+                        "variantName": "Default",
+                        "type": "p",
+                        "children": [
+                          {
+                            "type": "Link",
+                            "props": {
+                              "to": "primary",
+                              "data-umyid": "36"
+                            },
+                            "children": [
+                              {
+                                "type": "span",
+                                "text": "Read more details...",
+                                "props": {
+                                  "data-umyid": "37"
+                                }
+                              }
+                            ]
+                          }
+                        ],
+                        "props": {
+                          "data-umyid": "35",
+                          "className": "text-right"
+                        }
+                      }
+                    ],
+                    "props": {
+                      "style": {
+                        "display": "table-cell",
+                        "position": "relative",
+                        "verticalAlign": "top",
+                        "paddingLeft": "15px"
+                      },
+                      "data-umyid": "27"
+                    }
+                  }
+                ],
+                "props": {
+                  "data-umyid": "24",
+                  "style": {
+                    "display": "table-row"
+                  }
+                }
+              }
+            ],
+            "props": {
+              "data-umyid": "23",
+              "style": {
+                "display": "table",
+                "width": "100%"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "variantName": "with primary button",
+    "type": "ProjectThumbnailWrapper",
+    "props": {
+      "data-umyid": "206"
+    },
+    "children": [
+      {
+        "type": "Panel",
+        "props": {
+          "data-umyid": "207",
+          "style": {
+            "border": 0
+          }
+        },
+        "children": [
+          {
+            "variantName": "Default",
+            "type": "div",
+            "children": [
+              {
+                "variantName": "Default",
+                "type": "div",
+                "children": [
+                  {
+                    "variantName": "Default",
+                    "type": "div",
+                    "children": [
+                      {
+                        "variantName": "Default",
+                        "type": "div",
+                        "children": [
+                          {
+                            "variantName": "Unsaved variant",
+                            "type": "StructorLogo",
+                            "props": {
+                              "data-umyid": "212",
+                              "style": {
+                                "width": "100%"
+                              }
+                            }
+                          }
+                        ],
+                        "props": {
+                          "data-umyid": "211",
+                          "style": {
+                            "padding": "5px"
+                          }
+                        }
+                      },
+                      {
+                        "variantName": "Default",
+                        "type": "p",
+                        "children": [
+                          {
+                            "type": "span",
+                            "text": "300",
+                            "props": {
+                              "data-umyid": "214"
+                            }
+                          }
+                        ],
+                        "props": {
+                          "data-umyid": "213",
+                          "className": "text-center"
+                        }
+                      },
+                      {
+                        "type": "Button",
+                        "props": {
+                          "bsStyle": "primary",
+                          "data-umyid": "215"
+                        },
+                        "children": [
+                          {
+                            "type": "span",
+                            "text": "Download",
+                            "props": {
+                              "data-umyid": "216"
+                            },
+                            "componentName": null
+                          }
+                        ],
+                        "componentName": null
+                      }
+                    ],
+                    "props": {
+                      "data-umyid": "210",
+                      "style": {
+                        "display": "table-cell",
+                        "width": "70px",
+                        "verticalAlign": "top",
+                        "borderRight": "1px solid #f5f5f5",
+                        "paddingRight": "15px"
+                      }
+                    }
+                  },
+                  {
+                    "variantName": "Default",
+                    "type": "div",
+                    "children": [
+                      {
+                        "variantName": "Default",
+                        "type": "h3",
+                        "children": [
+                          {
+                            "type": "span",
+                            "text": "Structor Market site",
+                            "props": {
+                              "data-umyid": "219"
+                            }
+                          }
+                        ],
+                        "props": {
+                          "data-umyid": "218",
+                          "className": "text-danger",
+                          "style": {
+                            "marginTop": 0,
+                            "width": "80%"
+                          }
+                        }
+                      },
+                      {
+                        "type": "p",
+                        "children": [
+                          {
+                            "type": "span",
+                            "text": "Empty Panel",
+                            "props": {
+                              "data-umyid": "221"
+                            }
+                          }
+                        ],
+                        "props": {
+                          "data-umyid": "220"
+                        }
+                      },
+                      {
+                        "variantName": "Unsaved variant",
+                        "type": "hr",
+                        "props": {
+                          "data-umyid": "222"
+                        }
+                      },
+                      {
+                        "variantName": "Default",
+                        "type": "p",
+                        "children": [
+                          {
+                            "type": "span",
+                            "text": "Empty p",
+                            "props": {
+                              "data-umyid": "224"
+                            }
+                          }
+                        ],
+                        "props": {
+                          "data-umyid": "223"
+                        }
+                      },
+                      {
+                        "variantName": "Default",
+                        "type": "p",
+                        "children": [
+                          {
+                            "type": "Link",
+                            "props": {
+                              "to": "primary",
+                              "data-umyid": "226"
+                            },
+                            "children": [
+                              {
+                                "type": "span",
+                                "text": "Read more details...",
+                                "props": {
+                                  "data-umyid": "227"
+                                }
+                              }
+                            ]
+                          }
+                        ],
+                        "props": {
+                          "data-umyid": "225",
+                          "className": "text-right"
+                        }
+                      }
+                    ],
+                    "props": {
+                      "style": {
+                        "display": "table-cell",
+                        "position": "relative",
+                        "verticalAlign": "top",
+                        "paddingLeft": "15px"
+                      },
+                      "data-umyid": "217"
+                    }
+                  }
+                ],
+                "props": {
+                  "data-umyid": "209",
+                  "style": {
+                    "display": "table-row"
+                  }
+                }
+              }
+            ],
+            "props": {
+              "data-umyid": "208",
+              "style": {
+                "display": "table",
+                "width": "100%"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "variantName": "thumbnail with air",
+    "type": "ProjectThumbnailWrapper",
+    "props": {
+      "data-umyid": "182"
+    },
+    "children": [
+      {
+        "type": "Panel",
+        "props": {
+          "data-umyid": "124",
+          "style": {
+            "border": 0
+          }
+        },
+        "children": [
+          {
+            "variantName": "mini mesh",
+            "type": "Grid",
+            "props": {
+              "fluid": true,
+              "data-umyid": "145"
+            },
+            "children": [
+              {
+                "type": "Row",
+                "children": [
+                  {
+                    "type": "Col",
+                    "props": {
+                      "xs": 2,
+                      "md": 2,
+                      "sm": 2,
+                      "lg": 2,
+                      "data-umyid": "147"
+                    },
+                    "children": [
+                      {
+                        "variantName": "Default",
+                        "type": "div",
+                        "children": [
+                          {
+                            "variantName": "Default",
+                            "type": "div",
+                            "children": [
+                              {
+                                "variantName": "Unsaved variant",
+                                "type": "StructorLogo",
+                                "props": {
+                                  "data-umyid": "166",
+                                  "style": {
+                                    "width": "100%"
+                                  }
+                                }
+                              }
+                            ],
+                            "props": {
+                              "data-umyid": "165",
+                              "style": {
+                                "padding": "5px"
+                              }
+                            }
+                          },
+                          {
+                            "variantName": "Default",
+                            "type": "p",
+                            "children": [
+                              {
+                                "type": "span",
+                                "text": "300",
+                                "props": {
+                                  "data-umyid": "168"
+                                }
+                              }
+                            ],
+                            "props": {
+                              "data-umyid": "167",
+                              "className": "text-center"
+                            }
+                          },
+                          {
+                            "type": "Button",
+                            "props": {
+                              "bsStyle": "primary",
+                              "data-umyid": "169",
+                              "bsSize": "xs"
+                            },
+                            "children": [
+                              {
+                                "type": "span",
+                                "text": "Download",
+                                "props": {
+                                  "data-umyid": "170"
+                                },
+                                "componentName": null
+                              }
+                            ],
+                            "componentName": null
+                          }
+                        ],
+                        "props": {
+                          "data-umyid": "164",
+                          "style": {
+                            "width": "100%",
+                            "display": "table-cell",
+                            "textAlign": "center"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "Col",
+                    "props": {
+                      "xs": 12,
+                      "md": 10,
+                      "sm": 10,
+                      "lg": 10,
+                      "data-umyid": "151"
+                    },
+                    "children": [
+                      {
+                        "variantName": "Default",
+                        "type": "div",
+                        "children": [
+                          {
+                            "variantName": "Default",
+                            "type": "h3",
+                            "children": [
+                              {
+                                "type": "span",
+                                "text": "Structor Market site",
+                                "props": {
+                                  "data-umyid": "173"
+                                }
+                              }
+                            ],
+                            "props": {
+                              "data-umyid": "172",
+                              "className": "text-danger",
+                              "style": {
+                                "width": "80%"
+                              }
+                            }
+                          },
+                          {
+                            "type": "p",
+                            "children": [
+                              {
+                                "type": "span",
+                                "text": "Empty Panel",
+                                "props": {
+                                  "data-umyid": "175"
+                                }
+                              }
+                            ],
+                            "props": {
+                              "data-umyid": "174"
+                            }
+                          },
+                          {
+                            "variantName": "Unsaved variant",
+                            "type": "hr",
+                            "props": {
+                              "data-umyid": "176"
+                            }
+                          },
+                          {
+                            "variantName": "Default",
+                            "type": "p",
+                            "children": [
+                              {
+                                "type": "span",
+                                "text": "Empty p",
+                                "props": {
+                                  "data-umyid": "178"
+                                }
+                              }
+                            ],
+                            "props": {
+                              "data-umyid": "177"
+                            }
+                          },
+                          {
+                            "variantName": "Default",
+                            "type": "p",
+                            "children": [
+                              {
+                                "type": "Link",
+                                "props": {
+                                  "to": "primary",
+                                  "data-umyid": "180"
+                                },
+                                "children": [
+                                  {
+                                    "type": "span",
+                                    "text": "Read more details...",
+                                    "props": {
+                                      "data-umyid": "181"
+                                    }
+                                  }
+                                ]
+                              }
+                            ],
+                            "props": {
+                              "data-umyid": "179",
+                              "className": "text-right"
+                            }
+                          }
+                        ],
+                        "props": {
+                          "style": {
+                            "position": "relative",
+                            "verticalAlign": "top"
+                          },
+                          "data-umyid": "171"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "props": {
+                  "data-umyid": "146"
+                }
+              }
+            ]
+          },
+          {
+            "variantName": "Default",
+            "type": "div",
+            "children": [
+              {
+                "variantName": "Default",
+                "type": "div",
+                "children": [],
+                "props": {
+                  "data-umyid": "126",
+                  "style": {
+                    "display": "table-row"
+                  }
+                }
+              }
+            ],
+            "props": {
+              "data-umyid": "125",
+              "style": {
+                "display": "table",
+                "width": "100%"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

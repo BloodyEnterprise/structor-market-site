@@ -1,0 +1,13 @@
+[
+  {
+    "variantName": "starter",
+    "type": "LandingImg",
+    "props": {
+      "style": {
+        "width": "100%",
+        "borderBottom": "1px solid #fff"
+      },
+      "data-umyid": "7"
+    }
+  }
+]

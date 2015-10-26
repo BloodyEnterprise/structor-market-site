@@ -1,0 +1,9 @@
+{
+  "name": "01-react",
+  "description": "01  |  Extends React component  |  File extension: jsx  |  Children: yes  |  Additional modules: no",
+  "component": {
+    "destDirPath": "src/components/{groupName}",
+    "fileExtension": "jsx",
+    "script": "Component.js"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "error": null,
+  "errors": [],
+  "data": [
+    {
+      "id": 2383,
+      "projectName": "BootstrapLayouts",
+      "createDate": "2015-09-08",
+      "lastUpdateDate": "2015-09-09",
+      "countDownload": 1,
+      "countPreview": 0,
+      "description": "This project includes all *official* **React-Bootstrap Components** with original options sets.\n\nAlso includes:\n* React JS component source code generator\n* React JS component + Reflux actions source code generator\n* Quick notes for all React-Bootstrap components",
+      "license": "MIT",
+      "userProfile": {
+        "id": 1325,
+        "login": "ipselon1",
+        "pwd": null,
+        "email": "asd",
+        "role": "UMY_PROTO_REACT_BUILDER_USER",
+        "createDate": "2015-05-27",
+        "projects": null
+      },
+      "packageFileName": null,
+      "preview": false,
+      "projectId": 2383
+    },
+    {
+      "id": 2489,
+      "projectName": "Structor Market site",
+      "createDate": "2015-10-18",
+      "lastUpdateDate": "2015-10-18",
+      "countDownload": 1,
+      "countPreview": 0,
+      "description": "#### Description\n\nThis project was developed for real-life site on http://helmetrex.com<br/>\nAdditionaly this project serves as an example of what you can do in Structor.\n\nHere you can find a lot of technologies which will help to develop a Web application for Node JS using React library.\n<br/>Such as:\n* Set of components: react-bootstrap\n* Flux implementation: redux, redux-thunk, react-redux\n* Routing: react-router\n\n**Remember, using Structor you don't have to install additionally all hot-reloading infrastructure (webpack-dev-middleware, webpack-hot-reloading, react-transform-hmr) because all these are embedded into the builder.**\n\nRead more about structure of the project's source code in detailed overview.\n\n<img src=\"/images/structor-market-screenshot.png\" style=\"width: 100%;\"></img>",
+      "license": null,
+      "userProfile": {
+        "id": 385,
+        "login": "ipselon",
+        "pwd": null,
+        "email": "qwe@asd.net",
+        "role": "UMY_PROTO_REACT_BUILDER_USER",
+        "createDate": "2015-03-29",
+        "projects": null
+      },
+      "packageFileName": null,
+      "preview": false,
+      "projectId": 2489
+    },
+    {
+      "id": 2279,
+      "projectName": "MyProject",
+      "createDate": "2015-09-07",
+      "lastUpdateDate": "2015-09-07",
+      "countDownload": 0,
+      "countPreview": 0,
+      "description": "Includes: \n\n- React Bootstrap components (2.5.0)\n- webpack configuration\n- Components with validation, feedback, and etc.",
+      "license": "MIT",
+      "userProfile": {
+        "id": 1325,
+        "login": "ipselon1",
+        "pwd": null,
+        "email": "asd",
+        "role": "UMY_PROTO_REACT_BUILDER_USER",
+        "createDate": "2015-05-27",
+        "projects": null
+      },
+      "packageFileName": null,
+      "preview": false,
+      "projectId": 2279
+    }
+  ]
+}
