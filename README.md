@@ -4,7 +4,7 @@ Additionaly this project serves as an example of what you can do in Structor.
 
 Shortly, [Structor](https://github.com/ipselon/structor) is a user interface builder for Web apps using React components.
  
-<img src="https://github.com/ipselon/structor-market-site/blob/master/docs/resources/structor-market-screenshot.png" style="width: 100%"></img>
+<img src="https://github.com/ipselon/structor-market-site/blob/master/screenshot.png" style="width: 100%"></img>
 <br/>
 ### The problem
 
