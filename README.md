@@ -2,7 +2,7 @@
 This project was developed for real-life site on <a href="http://helmetrex.com" >http://helmetrex.com</a>.
 Additionaly this project serves as an example of what you can do in Structor.
 
-Shortly, [Structor](https://github.com/ipselon/structor) is a user interface builder for Web apps using React components.
+Shortly, [Structor](https://github.com/ipselon/structor) is a user interface builder for Web apps which have React UI.
  
 <img src="https://github.com/ipselon/structor-market-site/blob/master/screenshot.png" style="width: 100%"></img>
 <br/>
