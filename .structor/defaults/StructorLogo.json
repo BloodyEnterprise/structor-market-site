@@ -1,22 +1,17 @@
 [
   {
-    "variantName": "full width",
-    "type": "StructorLogo",
-    "props": {
-      "data-umyid": "99",
-      "style": {
-        "width": "100%"
-      }
-    }
-  },
-  {
-    "variantName": "width 100px",
+    "variantName": "default",
     "type": "StructorLogo",
     "props": {
       "style": {
-        "width": "100px"
+        "width": "5em",
+        "display": "inline-block",
+        "marginTop": "-0.3em",
+        "marginBottom": 0,
+        "borderRadius": "5px",
+        "backgroundColor": "#000"
       },
-      "data-umyid": "99"
+      "data-umyid": "4"
     }
   }
 ]

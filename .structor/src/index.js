@@ -1,7 +1,7 @@
-require('../../src/assets/css/bootstrap.css');
-require('../../src/assets/css/font-awesome.css');
-require('../../src/assets/css/app.css');
-require('../../src/assets/js/bootstrap.js');
+require('../../src/client/assets/css/bootstrap.css');
+require('../../src/client/assets/css/font-awesome.css');
+require('../../src/client/assets/css/app.css');
+require('../../src/client/assets/js/bootstrap.js');
 module.exports = {
     ReactRouter: {
         Link: require('react-router').Link
@@ -17,31 +17,43 @@ module.exports = {
         SplitButton: require('react-bootstrap').SplitButton,
         MenuItem: require('react-bootstrap').MenuItem,
         Panel: require('react-bootstrap').Panel,
-        PanelGroup: require('../../src/components/ReactBootstrap').PanelGroup,
+        PanelGroup: require('../../src/client/components/ReactBootstrap').PanelGroup,
         Input: require('react-bootstrap').Input,
         Table: require('react-bootstrap').Table,
-        Tabs: require('../../src/components/ReactBootstrap').Tabs,
+        Tabs: require('../../src/client/components/ReactBootstrap').Tabs,
         Tab: require('react-bootstrap').Tab,
         Carousel: require('react-bootstrap').Carousel,
         CarouselItem: require('react-bootstrap').CarouselItem,
         ProgressBar: require('react-bootstrap').ProgressBar,
         Navbar: require('react-bootstrap').Navbar,
-        Nav: require('../../src/components/ReactBootstrap').Nav,
+        NavBrand: require('react-bootstrap').NavBrand,
+        Nav: require('../../src/client/components/ReactBootstrap').Nav,
         NavItem: require('react-bootstrap').NavItem,
+        NavDropdown: require('react-bootstrap').NavDropdown,
         ListGroup: require('react-bootstrap').ListGroup,
         ListGroupItem: require('react-bootstrap').ListGroupItem,
         Label: require('react-bootstrap').Label,
         Badge: require('react-bootstrap').Badge,
         Well: require('react-bootstrap').Well,
         Alert: require('react-bootstrap').Alert,
-        Jumbotron: require('react-bootstrap').Jumbotron
+        Jumbotron: require('react-bootstrap').Jumbotron,
+        AlertDismissable: require('../../src/client/components/ReactBootstrap').AlertDismissable
+    },
+    ReactBootstrapModal: {
+        ModalSubmitCancel: require('../../src/client/components/ReactBootstrap').ModalSubmitCancel,
+        ModalClose: require('../../src/client/components/ReactBootstrap').ModalClose
     },
     Site: {
-        LandingImg: require('../../src/components/Site/LandingImg.jsx'),
-        StructorLogo: require('../../src/components/Site/StructorLogo.jsx'),
-        ProjectThumbnailWrapper: require('../../src/components/Site/ProjectThumbnailWrapper.jsx'),
-        ProjectList: require('../../src/components/Site/ProjectList.jsx'),
-        ProjectThumbnailAir: require('../../src/components/Site/ProjectThumbnailAir.jsx'),
-        ProjectOverview: require('../../src/components/Site/ProjectOverview.jsx')
+        LandingImg: require('../../src/client/components/Site/LandingImg.jsx'),
+        StructorLogo: require('../../src/client/components/Site/StructorLogo.jsx'),
+        StructorLogoFinal: require('../../src/client/components/Site/StructorLogoFinal.jsx'),
+        IFrameFrame: require('../../src/client/components/Site/IFrameFrame.jsx'),
+        AddNewRepoForm: require('../../src/client/containers/Site/AddNewRepoForm.jsx'),
+        ProjectThumbnail: require('../../src/client/components/Site/ProjectThumbnail.jsx'),
+        ProjectThumbnailGrid: require('../../src/client/containers/Site/ProjectThumbnailGrid.jsx'),
+        ScreenShot: require('../../src/client/components/Site/ScreenShot.jsx'),
+        GithubProjectInfoPane: require('../../src/client/components/Site/GithubProjectInfoPane.jsx'),
+        ModalScreenShotWrapper: require('../../src/client/containers/Site/ModalScreenShotWrapper.jsx'),
+        GithubProjectReadmePane: require('../../src/client/containers/Site/GithubProjectReadmePane.jsx')
     }
 };

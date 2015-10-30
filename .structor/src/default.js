@@ -6,7 +6,7 @@ import { Provider } from 'react-redux';
 import { createHistory, useBasename } from 'history';
 import { Router, Route, Link } from 'react-router';
 
-import storeManager from '../../src/store/storeManager.js';
+import storeManager from '../../src/client/store/storeManager.js';
 import PageForDesk from './PageForDesk.js';
 import PageNoRoute from './PageNoRoute.js';
 

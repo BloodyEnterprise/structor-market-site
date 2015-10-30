@@ -645,5 +645,292 @@
         }
       }
     ]
+  },
+  {
+    "variantName": "market repos grid",
+    "type": "Grid",
+    "props": {
+      "fluid": true,
+      "data-umyid": "97",
+      "style": {
+        "marginTop": "2em"
+      }
+    },
+    "children": [
+      {
+        "type": "Row",
+        "children": [
+          {
+            "type": "Col",
+            "props": {
+              "xs": 12,
+              "md": 4,
+              "sm": 4,
+              "lg": 4,
+              "style": {
+                "margin": 0,
+                "padding": 10
+              },
+              "data-umyid": "114"
+            },
+            "children": [
+              {
+                "type": "Panel",
+                "props": {
+                  "data-umyid": "115",
+                  "style": {
+                    "margin": 0
+                  }
+                },
+                "children": [
+                  {
+                    "type": "p",
+                    "children": [
+                      {
+                        "type": "span",
+                        "text": "Empty Panel",
+                        "props": {
+                          "data-umyid": "117"
+                        }
+                      }
+                    ],
+                    "props": {
+                      "data-umyid": "116"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "Col",
+            "props": {
+              "xs": 12,
+              "md": 4,
+              "sm": 4,
+              "lg": 4,
+              "style": {
+                "margin": 0,
+                "padding": 10
+              },
+              "data-umyid": "208"
+            },
+            "children": [
+              {
+                "type": "Panel",
+                "props": {
+                  "data-umyid": "209",
+                  "style": {
+                    "margin": 0
+                  }
+                },
+                "children": [
+                  {
+                    "type": "p",
+                    "children": [
+                      {
+                        "type": "span",
+                        "text": "Empty Panel",
+                        "props": {
+                          "data-umyid": "211"
+                        }
+                      }
+                    ],
+                    "props": {
+                      "data-umyid": "210"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "Col",
+            "props": {
+              "xs": 12,
+              "md": 4,
+              "sm": 4,
+              "lg": 4,
+              "style": {
+                "margin": 0,
+                "padding": 10
+              },
+              "data-umyid": "228"
+            },
+            "children": [
+              {
+                "type": "Panel",
+                "props": {
+                  "data-umyid": "229",
+                  "style": {
+                    "margin": 0
+                  }
+                },
+                "children": [
+                  {
+                    "type": "p",
+                    "children": [
+                      {
+                        "type": "span",
+                        "text": "Empty Panel",
+                        "props": {
+                          "data-umyid": "231"
+                        }
+                      }
+                    ],
+                    "props": {
+                      "data-umyid": "230"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "props": {
+          "data-umyid": "113",
+          "style": {
+            "padding": 0
+          }
+        }
+      },
+      {
+        "type": "Row",
+        "children": [
+          {
+            "type": "Col",
+            "props": {
+              "xs": 12,
+              "md": 4,
+              "sm": 4,
+              "lg": 4,
+              "style": {
+                "margin": 0,
+                "padding": 10
+              },
+              "data-umyid": "277"
+            },
+            "children": [
+              {
+                "type": "Panel",
+                "props": {
+                  "data-umyid": "278",
+                  "style": {
+                    "margin": 0
+                  }
+                },
+                "children": [
+                  {
+                    "type": "p",
+                    "children": [
+                      {
+                        "type": "span",
+                        "text": "Empty Panel",
+                        "props": {
+                          "data-umyid": "280"
+                        }
+                      }
+                    ],
+                    "props": {
+                      "data-umyid": "279"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "Col",
+            "props": {
+              "xs": 12,
+              "md": 4,
+              "sm": 4,
+              "lg": 4,
+              "style": {
+                "margin": 0,
+                "padding": 10
+              },
+              "data-umyid": "281"
+            },
+            "children": [
+              {
+                "type": "Panel",
+                "props": {
+                  "data-umyid": "282",
+                  "style": {
+                    "margin": 0
+                  }
+                },
+                "children": [
+                  {
+                    "type": "p",
+                    "children": [
+                      {
+                        "type": "span",
+                        "text": "Empty Panel",
+                        "props": {
+                          "data-umyid": "284"
+                        }
+                      }
+                    ],
+                    "props": {
+                      "data-umyid": "283"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "Col",
+            "props": {
+              "xs": 12,
+              "md": 4,
+              "sm": 4,
+              "lg": 4,
+              "style": {
+                "margin": 0,
+                "padding": 10
+              },
+              "data-umyid": "285"
+            },
+            "children": [
+              {
+                "type": "Panel",
+                "props": {
+                  "data-umyid": "286",
+                  "style": {
+                    "margin": 0
+                  }
+                },
+                "children": [
+                  {
+                    "type": "p",
+                    "children": [
+                      {
+                        "type": "span",
+                        "text": "Empty Panel",
+                        "props": {
+                          "data-umyid": "288"
+                        }
+                      }
+                    ],
+                    "props": {
+                      "data-umyid": "287"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "props": {
+          "data-umyid": "276",
+          "style": {
+            "padding": 0
+          }
+        }
+      }
+    ]
   }
 ]

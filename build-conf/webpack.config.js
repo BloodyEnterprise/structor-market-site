@@ -5,7 +5,7 @@ module.exports = [
     {
         name: "browser",
         entry: {
-            main: './src/main.js'
+            main: './src/client/main.js'
         },
         output: {
             path: './public/resources',

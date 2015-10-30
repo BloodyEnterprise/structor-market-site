@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+}
+
+.under-title-text {
+    font-size: 20px;
+    font-weight: 200;
+    /*letter-spacing: 1px;*/
+}
+
+.title-text {
+    font-size: 48px;
+    font-weight: 300;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.navbar-collapse {
+    overflow: hidden;
+}
+
+a:focus, a:active {
+    outline: 0
+}
+
+
+

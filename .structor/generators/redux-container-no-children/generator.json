@@ -1,8 +1,8 @@
 {
   "name": "04-react",
-  "description": "04  |  Component with Redux connect  |  File extension: jsx  |  Children: no  |  Additional modules: no",
+  "description": "04  |  Redux container, without children",
   "component": {
-    "destDirPath": "src/components/{groupName}",
+    "destDirPath": "src/client/containers/{groupName}",
     "fileExtension": "jsx",
     "script": "Component.js"
   }

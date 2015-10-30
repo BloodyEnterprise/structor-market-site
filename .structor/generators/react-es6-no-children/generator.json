@@ -1,8 +1,8 @@
 {
   "name": "02-react",
-  "description": "02  |  Extends React component  |  File extension: jsx  |  Children: no  |  Additional modules: no",
+  "description": "02  |  Dumb React component, without children",
   "component": {
-    "destDirPath": "src/components/{groupName}",
+    "destDirPath": "src/client/components/{groupName}",
     "fileExtension": "jsx",
     "script": "Component.js"
   }
