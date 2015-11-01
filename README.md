@@ -1,3 +1,5 @@
+[![structor compatible](https://img.shields.io/badge/structor%20compatible-true-0077dd.svg?style=flat)](http://helmetrex.com)
+
 ### Description
 This project was developed for real-life site on <a href="http://helmetrex.com" >http://helmetrex.com</a>.
 Additionaly this project serves as an example of what you can do in Structor.
