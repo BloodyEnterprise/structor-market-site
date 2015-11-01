@@ -25,7 +25,7 @@ The builder is only the environment which uses metainfo of the project and acts 
 The following libs and technlogies were used:
 * ```react``` (0.14)
 * ```react-router```
-* ```redux``` (```redux-thunk```, ```react-redux```)
+* ```redux``` (```redux-thunk```, ```react-redux```, ```redux-actions```, ```redux-promise```)
 * ```react-bootstrap``` (with customised css styles)
 * ```express```
 * etc.
@@ -49,7 +49,8 @@ This will be discussed below in chapter "Export pages".
 If you want to see the app in action please do the following:
 * Go to folder where you unpack downloaded package.
 * Run command: ```npm install```
-* Run command: ```npm run build```
+* Run command: ```npm run build-server```
+* Run command: ```npm run build-client```
 * Run command: ```node ./server.js```
 * Go to http://localhost:3000
 
@@ -94,7 +95,8 @@ public/
  |--resources/
  |   |--...
  |--index.html
-server-data/
+server/
+ |--data/
  |--...
 src/
  |--...
@@ -149,7 +151,7 @@ The output of this config will be the minimized files in ```public/``` folder.
 <br/>
 
 #### Data for backend server
-* ```server-data/``` - folder where various data files are resided in order to use them in backend server for testing purposes.
+* ```server/data``` - folder where various data files are resided in order to use them in backend server for testing purposes.
 <br/>
 
 #### Source code 
@@ -205,7 +207,7 @@ Also you may edit templates for output React components in ```.structor/template
 <br/>
 ### Building and trying a real Web app
 Having exported pages and routes you can run webpack's build script:
-* ```npm run build```
+* ```npm run build-client```
 
 Then, if everything were built and you didn't stop backend server, just go to http://localhost:3000
 <br/>
